@@ -13,3 +13,9 @@ My goal is to be able to upload a 3d model(file formats not selected yet) and to
 -Do I want to track points on the sphere in [x,t,z] point pairs representing vectors(linear algebra).
 -(Maybe don't rotate) Do I want to use quaternions(abstract algebra), does this make sense if I avoid rotations, think gimble lock with linear matrix approach and Euler angles. 
 -Maybe use MatPlotLib, pyMesh, pyTorch3d and solidPython as potential options. 
+
+# Setup
+
+## Virtual env
+
+=> source fourier-analysis-3d-string-art/bin/activate
